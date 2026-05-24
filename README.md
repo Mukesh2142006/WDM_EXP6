@@ -84,6 +84,7 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
     highest_rank_score = max(result[2] for result in search_results)
     print("The highest rank cosine score is:", highest_rank_score)
 ### Output:
-![alt text](image.png)
+<img width="582" height="522" alt="image" src="https://github.com/user-attachments/assets/1a50f332-1eeb-4069-806a-76a27c9712e6" />
+
 ### Result:
 Thus the implementation Information Retrieval Using Vector Space Model in Python is successfullly executed.
